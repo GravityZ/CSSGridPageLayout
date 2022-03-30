@@ -14,7 +14,7 @@ body{
 .contenedor{
     width: 90%;
     max-width: 1000px;
-    margin: 20px auto;
+    margin: 45px auto;
     /*----CSSGRID-----*/
     display: grid;
     gap: 20px;
